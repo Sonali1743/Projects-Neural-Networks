@@ -34,4 +34,20 @@ This successful demonstration allowed us to effectively reduce the appraised val
 
 In the table below, we have provided a short description of the data variables which we have referred to in this project.
 
-Attribute Description Data Type Source Example Property_ID A unique identifier per property Object WCAD R341326 Address Address of the property Object WCAD 1607 PAPER MOON DR, CEDAR PARK, TX 78613 Value_2023 Appraised value Object WCAD 531745 Link WCAD link Object WCAD https://search.wcad.org/Property-Detail/PropertyQuickRefID/R341326 area Carpet area Object WCAD 2,714 Sq. Ft imp1 Improvement details Object WCAD 1 Main Area 1997 1,357 N/A Details imp2 Improvement details Object WCAD 2 Second Floor 1997 1,357 N/A Details imp3 Improvement details Object WCAD 3 Garage 1997 399 N/A Details imp4 Improvement details Object WCAD 4 Open Porch 1997 107 N/A Details imp5 Improvement details Object WCAD 5 Open Porch 1997 462 N/A Details imp6 Improvement details Object WCAD 6 Fireplace 1997 1 N/A imp7 Improvement details Object WCAD 7 Out Bldg 1999 120 N/A Details imp8 Improvement details Object WCAD 8 Concrete Pool 2003 399 N/A Details imp9 Improvement details Object WCAD 9 Fireplace 1994 1 N/A Details imp10 Improvement details Object WCAD 10 Open Porch 2021 268 N/A Details
+| Attribute  | Description  | Data Type  | Source  | Example  |
+| --- | --- | --- | --- | --- |
+| Property_ID  | A unique identifier per property  | Object  | WCAD  | R341326  |
+| Address  | Address of the property  | Object  | WCAD  | 1607 PAPER MOON DR, CEDAR PARK, TX 78613  |
+| Value_2023  | Appraised value  | Object  | WCAD  | 531745  |
+| Link  | WCAD link  | Object  | WCAD  | https://search.wcad.org/Property-Detail/PropertyQuickRefID/R341326  |
+| area  | Carpet area  | Object  | WCAD  | 2,714 Sq. Ft  |
+| imp1  | Improvement details  | Object  | WCAD  | 1 Main Area 1997 1,357 N/A Details  |
+| imp2  | Improvement details  | Object  | WCAD  | 2 Second Floor 1997 1,357 N/A Details  |
+| imp3  | Improvement details  | Object  | WCAD  | 3 Garage 1997 399 N/A Details  |
+| imp4  | Improvement details  | Object  | WCAD  | 4 Open Porch 1997 107 N/A Details  |
+| imp5  | Improvement details  | Object  | WCAD  | 5 Open Porch 1997 462 N/A Details  |
+| imp6  | Improvement details  | Object  | WCAD  | 6 Fireplace 1997 1 N/A  |
+| imp7  | Improvement details  | Object  | WCAD  | 7 Out Bldg 1999 120 N/A Details  |
+| imp8  | Improvement details  | Object  | WCAD  | 8 Concrete Pool 2003 399 N/A Details  |
+| imp9  | Improvement details  | Object  | WCAD  | 9 Fireplace 1994 1 N/A Details  |
+| imp10  | Improvement details  | Object  | WCAD  | 10 Open Porch 2021 268 N/A  |
